@@ -1,0 +1,3 @@
+Madison|Sheldon|Wec Summer Series 1|1.15|13|outdoor|good|false|true||Nervous|true|false|false|false|false|0.0|
+Shannon|Hero|Wec summer 2|1.10 adult|13|outdoor|firm|false|true||Nervous|true|false|true|false|false|0.0|
+eric|long shot||1.1|10|outdoor|good|false|false|spooked on a jump|Focused|false|false|true|false|false|0.0|
